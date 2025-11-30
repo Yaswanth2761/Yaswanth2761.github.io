@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on My Personal Website</title><link>https://yaswanth2761.github.io/posts/</link><description>Recent content in Posts on My Personal Website</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate/><atom:link href="https://yaswanth2761.github.io/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My Personal Website</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My Personal Website</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2025 20:09:51 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 29 Nov 2025 20:09:51 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;I’m a fourth-year undergraduate at IIT Kharagpur, focused on building a deep understanding of how AI/ML meets large-scale software engineering. My work and interests lie in distributed systems, parallel programming for high-performance AI, and advanced domains such as NLP and reinforcement learning. Through this blog, I aim to share insights, experiments, and perspectives from my journey into building scalable and intelligent systems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
